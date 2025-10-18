@@ -1,6 +1,6 @@
 # freeCodeCamp Project - Build a Recipe Page
 
-This project demonstrates basic HTML structure (<h1>, <h2>, <ul>, <ol>) to present a clear, easy-to-follow cooking guide.
+This project demonstrates basic HTML structure h1, h2, ul, ol to present a clear, easy-to-follow cooking guide.
 
 ## 🚀 Quick Overview
 
