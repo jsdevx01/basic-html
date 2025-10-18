@@ -18,6 +18,7 @@ This is a single-file project (index.html) containing the complete recipe for a 
 
 HTML Fundamentals: Uses essential tags to structure the recipe:
 
+```
 - <h1> for the title.
 
 - <p> for a brief introduction.
@@ -25,6 +26,7 @@ HTML Fundamentals: Uses essential tags to structure the recipe:
 - <ul> (Unordered List) for the ingredients.
 
 - <ol> (Ordered List) for the step-by-step instructions.
+```
 
 Media Inclusion: Includes an <img> tag to display a visual of the finished dish.
 
